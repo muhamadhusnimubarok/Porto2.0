@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 export function Logo() {
   return (
     <motion.svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""
       width={500}
       height={500}
       viewBox="0 0 375 375"
@@ -247,7 +247,7 @@ export function Logo() {
 export function LogoSpotify({ className }: { className?: string }) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""
       width={200}
       height={200}
       fill="currentColor"
@@ -267,7 +267,7 @@ export function LogoSpotify({ className }: { className?: string }) {
 export function LogoDiscord({ className }: { className?: string }) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""
       width={200}
       height={200}
       fill="currentColor"
