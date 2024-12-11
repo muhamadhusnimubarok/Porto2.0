@@ -45,7 +45,7 @@ export default function Hero() {
       {/* Tambahkan Konten untuk CV */}
       <div className="mt-10 flex space-x-4">
         <a
-          href="/cv/CV-Muhamad Husni Mubarok (3).pdf"
+          href="/cv/CV-Muhamad Husni Mubarok.pdf"
           download
           className="rounded-lg bg-black px-10 py-4 text-lg font-bold text-white shadow-lg transition hover:bg-gray-800"
         >
